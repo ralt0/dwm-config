@@ -1,0 +1,242 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	328
+#@/user_id	441ddf59-dd76-4272-9cbf-705f2feb15bd
+a 	啊	c=2 d=0.501902 t=328
+an hei 	暗黑	c=0 d=0.0995012 t=328
+an hei yuan shou 	暗黑元首	c=1 d=1 t=328
+an ye 	暗夜	c=0 d=0.0214381 t=328
+an ye lie shou 	暗夜獵手	c=1 d=0.215456 t=328
+an zhuang 	安裝	c=2 d=0.498655 t=328
+bang wo 	幫我	c=1 d=0.66034 t=328
+bao cun 	保存	c=1 d=0.219808 t=328
+bei 	盃	c=0 d=0.0299692 t=328
+bei ke 	貝殼	c=1 d=0.316637 t=328
+bi shi 	筆試	c=1 d=0.677057 t=328
+bi zhi 	壁紙	c=1 d=0.232236 t=328
+bian 	變	c=1 d=0.690734 t=328
+bian cheng 	編程	c=1 d=0.794534 t=328
+bian liang 	變量	c=1 d=0.305746 t=328
+bian xie 	編寫	c=1 d=0.440432 t=328
+biao qing 	表情	c=2 d=1.93124 t=328
+bing 	並	c=1 d=0.280832 t=328
+bing fa 	併發	c=1 d=0.362402 t=328
+bu hao 	不好	c=0 d=0.0826959 t=328
+bu hao ye neng gou 	不好也能夠	c=1 d=0.831104 t=328
+bu he shi 	不合適	c=1 d=0.588605 t=328
+can shu 	參數	c=2 d=1.57604 t=328
+cang 	藏	c=1 d=0.980199 t=328
+cang zi shi 	藏字石	c=1 d=0.970446 t=328
+chao ji 	超級	c=1 d=0.344227 t=328
+chao ji jian li 	超級簡歷	c=2 d=0.650931 t=328
+chen 	陳	c=9 d=5.12291 t=328
+cheng gong 	成功	c=1 d=0.293758 t=328
+cheng shou 	承受	c=0 d=0.0453845 t=328
+cheng shou zhu 	承受住	c=1 d=0.45612 t=328
+cheng yuan 	成員	c=1 d=0.304221 t=328
+chong die 	重疊	c=1 d=0.843665 t=328
+chu li 	處理	c=2 d=0.754471 t=328
+chuang jian 	創建	c=1 d=0.2334 t=328
+ci ku 	詞庫	c=4 d=3.07566 t=328
+da liang 	大量	c=3 d=1.25173 t=328
+da san 	大三	c=1 d=0.647265 t=328
+da xue 	大學	c=1 d=0.224249 t=328
+da xue sheng 	大學生	c=1 d=0.427415 t=328
+dan bu 	單步	c=1 d=0.790571 t=328
+dan diao 	單調	c=1 d=0.307279 t=328
+dao jian 	刀劍	c=1 d=1 t=328
+de 	地	c=1 d=0.379083 t=328
+de 	的	c=12 d=5.72282 t=328
+di fang 	地方	c=1 d=0.594521 t=328
+diao jie fa 	調節閥	c=0 d=0.0256661 t=328
+ding yi 	定義	c=1 d=0.744532 t=328
+dui lie 	隊列	c=2 d=0.996109 t=328
+dui xiang 	對象	c=1 d=0.236928 t=328
+duo 	多	c=0 d=0.0290835 t=328
+duo wen jian 	多文件	c=1 d=0.292293 t=328
+duo xian cheng 	多線程	c=2 d=0.700189 t=328
+fa song 	發送	c=2 d=0.560276 t=328
+fang 	房	c=1 d=0.318224 t=328
+fang wen 	訪問	c=2 d=0.947124 t=328
+fu jin 	附近	c=0 d=0.0251579 t=328
+gai 	該	c=1 d=0.442639 t=328
+gao feng 	高峯	c=1 d=0.463013 t=328
+gao xiao 	高效	c=1 d=0.377192 t=328
+ge shi 	格式	c=1 d=0.759572 t=328
+ge shi hua 	格式化	c=1 d=0.265803 t=328
+gei wo 	給我	c=1 d=0.609571 t=328
+geng xin 	更新	c=1 d=0.955997 t=328
+gu ji 	估計	c=1 d=0.289384 t=328
+guan 	冠	c=1 d=0.241714 t=328
+gui gong si 	貴公司	c=1 d=0.628135 t=328
+gui zhou 	貴州	c=2 d=1.94092 t=328
+gun dong 	滾動	c=1 d=0.951229 t=328
+hai shi 	還是	c=1 d=0.752014 t=328
+hao 	好	c=1 d=0.286505 t=328
+he 	和	c=2 d=0.750212 t=328
+hou 	侯	c=1 d=0.763379 t=328
+hou duan 	後端	c=1 d=0.355226 t=328
+hu 	互	c=1 d=0.67368 t=328
+huang 	黃	c=1 d=0.240508 t=328
+huang guan 	黃冠	c=0 d=0.0313486 t=328
+huang guan yang 	黃冠陽	c=4 d=1.88237 t=328
+ji yu 	基於	c=3 d=1.01065 t=328
+jia you 	加油	c=1 d=0.267135 t=328
+jian dan 	簡單	c=1 d=0.231078 t=328
+jian hua zi 	簡化字	c=1 d=0.99005 t=328
+jian kang 	健康	c=3 d=1.25718 t=328
+jian li 	簡歷	c=4 d=1.9807 t=328
+jie 	傑	c=1 d=0.767206 t=328
+jie 	屆	c=1 d=0.640824 t=328
+jie shou 	接受	c=1 d=0.275271 t=328
+jie shou 	接收	c=2 d=0.556082 t=328
+jie shu le 	結束了	c=1 d=0.290835 t=328
+jin zhi 	進制	c=1 d=0.694197 t=328
+jiu ping 	九評	c=1 d=0.99005 t=328
+kai fa 	開發	c=2 d=0.829052 t=328
+kang 	康	c=0 d=0.0697676 t=328
+kang tuo zhan kai 	康託展開	c=1 d=0.701173 t=328
+ke hu duan 	客戶端	c=1 d=0.298197 t=328
+ke ji da 	科技大	c=3 d=1.33218 t=328
+ke ji da xue 	科技大學	c=1 d=0.301357 t=328
+ke yi 	可以	c=2 d=0.743191 t=328
+ku 	哭	c=1 d=1 t=328
+ku 	庫	c=3 d=1.06251 t=328
+lai zi 	來自	c=2 d=0.946637 t=328
+lan qiao 	藍橋	c=0 d=0.0299692 t=328
+lan qiao bei 	藍橋盃	c=1 d=0.301194 t=328
+le 	了	c=1 d=0.458406 t=328
+lei 	類	c=2 d=1.04352 t=328
+li 	裏	c=1 d=0.852144 t=328
+li ji 	立即	c=1 d=0.222017 t=328
+li zi 	例子	c=1 d=0.283654 t=328
+liao tian 	聊天	c=1 d=1 t=328
+liao tian shi 	聊天室	c=1 d=0.285076 t=328
+lie shou 	獵手	c=0 d=0.0214381 t=328
+luan ma 	亂碼	c=2 d=0.519819 t=328
+ma 	嗎	c=1 d=0.875765 t=328
+mei yi ci 	每一次	c=1 d=0.460704 t=328
+mian jing 	麪經	c=1 d=0.909373 t=328
+mo shi 	模式	c=1 d=0.336216 t=328
+mu biao 	目標	c=1 d=0.726149 t=328
+na ge 	那個	c=0 d=0.0298197 t=328
+nei he 	內核	c=0 d=0.0891366 t=328
+nei he ma 	內核嗎	c=1 d=0.895834 t=328
+nei tui 	內推	c=1 d=0.66365 t=328
+neng 	能	c=2 d=1.26055 t=328
+nin 	您	c=2 d=1.25426 t=328
+nin hao 	您好	c=2 d=1.03972 t=328
+pai hang 	排行	c=1 d=0.802519 t=328
+pai xu 	排序	c=1 d=0.683861 t=328
+pei zhi 	配置	c=5 d=2.58028 t=328
+pin yin 	拼音	c=1 d=0.985112 t=328
+ping tai 	平臺	c=1 d=0.433874 t=328
+ping wen 	平穩	c=1 d=0.465334 t=328
+qi zhong 	其中	c=1 d=0.579842 t=328
+qiang 	強	c=1 d=0.923116 t=328
+qing dao 	青島	c=8 d=3.13673 t=328
+qing dao ke ji da 	青島科技大	c=1 d=0.865022 t=328
+qing dao ke ji da xue 	青島科技大學	c=1 d=0.562705 t=328
+qing qiu 	請求	c=1 d=0.396531 t=328
+ri chang 	日常	c=1 d=0.421052 t=328
+ru guo 	如果	c=1 d=0.582748 t=328
+ru zhi 	入職	c=1 d=0.625002 t=328
+sai 	賽	c=1 d=0.782705 t=328
+san qi 	三七	c=1 d=0.67032 t=328
+shang 	上	c=1 d=0.390628 t=328
+shao dai 	捎帶	c=2 d=0.451874 t=328
+shao shu ren 	少數人	c=1 d=0.960789 t=328
+shen me 	什麼	c=1 d=0.494109 t=328
+sheng huo 	生活	c=1 d=0.229925 t=328
+sheng xiao 	生效	c=1 d=0.22091 t=328
+shi 	仕	c=1 d=0.918512 t=328
+shi 	是	c=3 d=1.93289 t=328
+shi bai 	失敗	c=1 d=0.29523 t=328
+shi xi 	實習	c=6 d=2.83145 t=328
+shi xian 	實現	c=2 d=0.688217 t=328
+shi yong 	使用	c=5 d=2.7391 t=328
+shi yong na ge 	使用那個	c=1 d=0.299692 t=328
+shu 	數	c=1 d=0.697676 t=328
+shu chu 	輸出	c=1 d=0.273898 t=328
+shu ju 	數據	c=1 d=0.400517 t=328
+shu ru 	輸入	c=1 d=0.254107 t=328
+shu ru fa 	輸入法	c=3 d=1.96908 t=328
+shu zi 	數字	c=1 d=0.718924 t=328
+shu zu 	數組	c=1 d=0.235746 t=328
+shuang yue 	雙月	c=1 d=0.980199 t=328
+shuo 	碩	c=1 d=0.228779 t=328
+si da jie kong 	四大皆空	c=0 d=0.0251579 t=328
+si da jie kong fu jin 	四大皆空附近	c=1 d=0.25284 t=328
+si kao 	思考	c=0 d=0.0256661 t=328
+si kao diao jie fa 	思考調節閥	c=1 d=0.257947 t=328
+sou gou 	搜狗	c=1 d=0.822835 t=328
+teng xun 	騰訊	c=0 d=0.0257947 t=328
+teng xun yun 	騰訊暈	c=1 d=0.25924 t=328
+ti chu 	提出	c=2 d=1.21916 t=328
+tian jia 	添加	c=1 d=0.937067 t=328
+tian ti 	天梯	c=1 d=0.778801 t=328
+tiao dong 	跳動	c=1 d=0.904837 t=328
+tong shi 	同時	c=3 d=1.12414 t=328
+tu xing jie mian 	圖形界面	c=1 d=0.239309 t=328
+tui 	推	c=1 d=0.319819 t=328
+tui chu 	退出	c=2 d=0.543704 t=328
+tuo 	託	c=0 d=0.0697676 t=328
+wan cheng 	完成	c=2 d=0.887564 t=328
+wang luo 	網絡	c=3 d=1.0942 t=328
+wei 	微	c=1 d=0.891366 t=328
+wei 	爲	c=1 d=0.402524 t=328
+wei ji bai ke 	維基百科	c=1 d=0.951229 t=328
+wen jian 	文件	c=0 d=0.0290835 t=328
+wo 	我	c=3 d=1.67443 t=328
+wo de 	我的	c=2 d=1.12015 t=328
+xi wang 	希望	c=2 d=1.24801 t=328
+xian cheng 	縣城	c=1 d=0.23457 t=328
+xian zai 	現在	c=1 d=0.644036 t=328
+xiang 	想	c=1 d=0.621885 t=328
+xiang mu 	項目	c=1 d=0.444858 t=328
+xiao 	校	c=1 d=0.412714 t=328
+xie zai 	卸載	c=1 d=0.839457 t=328
+xie zai 	寫在	c=1 d=0.748264 t=328
+xin li 	心理	c=3 d=1.25091 t=328
+xin xi 	信息	c=2 d=0.495672 t=328
+xu yao 	需要	c=1 d=0.268474 t=328
+xue 	學	c=4 d=2.12171 t=328
+xue xiao 	學校	c=2 d=0.823495 t=328
+xue yuan 	學院	c=1 d=0.247833 t=328
+yan 	顏	c=3 d=2.89691 t=328
+yan fa 	研發	c=4 d=2.18095 t=328
+yang 	陽	c=1 d=0.274274 t=328
+ye neng gou 	也能夠	c=0 d=0.0826959 t=328
+yi jian 	意見	c=1 d=0.615697 t=328
+yi xia 	一下	c=1 d=0.666977 t=328
+yong 	用	c=1 d=0.83527 t=328
+yong hu 	用戶	c=2 d=0.9424 t=328
+you 	友	c=1 d=0.733447 t=328
+you 	有	c=1 d=0.585669 t=328
+you xiang 	郵箱	c=1 d=0.496585 t=328
+yu yan 	語言	c=2 d=1.60506 t=328
+yuan 	元	c=2 d=1.51204 t=328
+yuan dai ma 	源代碼	c=1 d=0.814647 t=328
+yuan ma 	源碼	c=1 d=0.882497 t=328
+yuan shou 	元首	c=0 d=0.0995012 t=328
+yuan wen jian 	源文件	c=1 d=0.70822 t=328
+yun 	暈	c=0 d=0.0257947 t=328
+yun suan fu 	運算符	c=1 d=0.722527 t=328
+yun xing 	運行	c=1 d=0.451581 t=328
+zai na 	在哪	c=3 d=2.28628 t=328
+zeng 	曾	c=1 d=0.913931 t=328
+zeng qiang 	增強	c=1 d=1 t=328
+zhan kai 	展開	c=0 d=0.0697676 t=328
+zhe shi 	這是	c=3 d=1.61614 t=328
+zhi jin 	至今	c=1 d=0.453845 t=328
+zhong guo 	中國	c=1 d=0.22313 t=328
+zhong wen 	中文	c=2 d=0.517226 t=328
+zhong wen wang 	中文網	c=1 d=0.810584 t=328
+zhong xin 	中心	c=1 d=0.410656 t=328
+zhu 	住	c=0 d=0.0453845 t=328
+zi 	字	c=1 d=0.985112 t=328
+zi 	自	c=1 d=0.447088 t=328
+zi ding yi 	自定義	c=1 d=1 t=328
+zi jie 	字節	c=1 d=0.900325 t=328
